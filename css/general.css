@@ -1,0 +1,87 @@
+html {
+	
+}
+
+body {
+	font-size: 100%; 
+	font-family:"Arial Black", Gadget, sans-serif;
+	background: #fff;  
+	
+}
+
+
+.main { 
+	
+	margin: 5em auto;
+	background-color: #f00;
+		
+	background: url("../images/film.jpg") repeat ;
+}
+
+.single {
+	background-color: #3C3;
+	background: url("../images/reel.jpg") repeat ;
+}
+
+
+.wrapper {
+	margin: 50px auto;
+	height: 600px;
+	padding: 1em 2em 2.5em 2em;
+	width: 500px;
+	background-color: #FC9;
+	opacity:0.9;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;;
+	
+	
+}
+
+.edit .wrapper {
+	background-color: #3CF;
+	opacity:0.6;
+}
+
+h1{
+	text-align: center;
+	
+}
+
+ul {
+	list-style-type: none;  
+	background: #FFF;
+}
+
+li{
+	padding: 1em;
+	color: #396;
+}
+
+.formfield {
+	margin: 2em;
+}
+
+#editsub {
+	margin: 2em;
+}
+
+.edit {
+	background-color : #C09;
+}
+
+.edit .wrapper {
+	
+	background-color: #609;
+	opacity:0.6;
+}
+
+.add {
+	background-color : #60C;
+}
+
+.add .wrapper {
+	
+	background-color: #33F;
+	opacity:0.6;
+}
